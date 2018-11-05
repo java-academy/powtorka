@@ -13,7 +13,7 @@ Refresher quiz from Java, by use of `fortune` game.
 From the terminal:
 
 . `git clone this-repository`
-. `cd porady` - change the dir name if you cloned or moved this elsewhere or renamed the dir name
+. `cd powtorka` - change the dir name if you cloned or moved this elsewhere or renamed the dir name
 . `strfile -c % fileNameHere` - creates a binary file DB for `fortune`
 . `fortune fileNameHere` - uses the file, giving the random fortune (that is, a random question)
 . `mv *.dat /usr/games/fortune` - assuming your fortune dir is `/usr/games/fortune`
