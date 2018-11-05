@@ -1,0 +1,221 @@
+Minimum code to throw an exception?
+%
+Minimum code to create an exception?
+%
+3-5 examples of exception?
+%
+Name 3 exceptions, then draw class hierarchy and place them there?
+%
+What can you tell about exceptions hierarchy?
+%
+Java has compile-time and run-time exceptions - true or false?
+%
+Java has compile-time and run-time errors - true or false?
+%
+Exception is the superclass of all exceptions - true or false?
+%
+Throwable is an interface - true or false?
+%
+Name keywords that were designed for dealing with exceptions?
+%
+How many keywords are meant for exception-handling?
+%
+Java has no errors, only exceptions - true or false?
+%
+Java has exceptions and run-time and compile-time errors - true or false?
+%
+Does Java have multi-catch?
+%
+What is multi-catch?
+%
+What is exception chaining?
+%
+Does Java have exception chaining?
+%
+Can we repackage exceptions?
+%
+Name constructors for Exception class and their purpose?
+%
+How can we handle exceptions in a thread?
+%
+How can we handle exceptions in a lambda?
+%
+How can we handle exceptions in a CompletableFuture?
+%
+How can we handle exceptions in an anonymous class?
+%
+In multithreading, which interfaces support exceptions?
+%
+Name 4 methods in one of main collection types that can throw?
+%
+Can a constructor throw an exception?
+%
+Can a synchronized section throw an exception?
+%
+If an exception is thrown from a constructor, what happens to such object?
+%
+If an exception is thrown from a synchronized block is a lock released?
+%
+Can an exception be handled?
+%
+Are there exceptions not meant to be handled?
+%
+What is the difference between an error and an exception?
+%
+Is there an Error class in Java?
+%
+Are Errors a subtype of Exception or vice versa?
+%
+NPE stands for...?
+%
+AIOOBE stands for...?
+%
+Name four exceptions dealing with IO?
+%
+Can a conversion to a primitive type throw an exception?
+%
+How can exceptions be handled?
+%
+Name good practices in handling exceptions?
+%
+Name one multithreading exception?
+%
+Name three errors?
+%
+What does OOME stand for?
+%
+When OOME gets thrown, should we catch it?
+%
+Why would we repackage something that is thrown?
+%
+When would you create your own exception?
+%
+What is recommended as a minimum code for your own exception?
+%
+Is throws obligatory in method signature?
+%
+Can you throw an error?
+%
+What is a stack trace?
+%
+Why is stack trace called a stack trace?
+%
+Can exceptions be used instead of returns?
+%
+Can exceptions be used instead of ifs?
+%
+Catching and swallowing exceptions means?
+%
+Can you have a try without a catch?
+%
+Can you have a try without a finally?
+%
+Can you have a try without a catch AND finally?
+%
+Can you have a catch without a try?
+%
+Can you have a finally without a try?
+%
+What is finally good for?
+%
+What is try-with-resources?
+%
+Can you have a try with multiple catch clauses?
+%
+Can you have a try with multiple finally clauses?
+%
+Can you throw an exception from within a catch?
+%
+Can you throw an exception from within a finally?
+%
+What happens when you throw an exception from within a catch?
+%
+What happens when you throw an exception from within a finally?
+%
+If you never catch an Error, what happens?
+%
+If you never catch an Exception, what happens?
+%
+If you never catch a RuntimeException, what happens?
+%
+If you catch a RuntimeException, what happens?
+%
+If you catch an Exception, what happens?
+%
+Can you not-handle an exception?
+%
+Can you throw Throwable?
+%
+What happens when you throw a Throwable?
+%
+If I code an exception that extends Throwable, is it a checked or unchecked exception?
+%
+Can I throw something that doesn't end in Exception?
+%
+What compiler support there is for exceptions?
+%
+What performance dangers are there related to exceptions?
+%
+What security concerns are there when it comes to exceptions?
+%
+Some programmers say that checked exceptions are evil, why?
+%
+When reviewing someone's code that deals with error handling, what you are looking for/at?
+%
+While reading code you spot an empty catch clause for Exception, good, bad, what to do?
+%
+While reading code you spot a catch clause for Exception, good, bad, what to do?
+%
+While reading code you spot a catch clause for Exception with System.out.println(e.getMessage());, good, bad, what to do?
+%
+When exception was thrown, what should we log?
+%
+Should we log entire Exception object?
+%
+Name API to use when logging Throwable?
+%
+How would you test a method that throws exceptions?
+%
+What happens when operation in a stream throws an exception?
+%
+Can your code throw errors?
+%
+Can your code throw runtime exceptions?
+%
+Can your code throw runtime errors?
+%
+What is a resource leak w.r.t. error-handling?
+%
+What can be used in try-with-resources?
+%
+When try-with-resources was introduced?
+%
+Can you use multi-catch in Java 6?
+%
+Can you use try-with-resources in Java 6?
+%
+Can you use exception-chaining in Java 6?
+%
+What is stack trace suppresion?
+%
+Give an example of a resource leak w.r.t. error-handling?
+%
+Code an example of a resource leak w.r.t. error-handling?
+%
+If System.exit is placed in a catch clause, will finally execute?
+%
+When will finally execute?
+%
+Is there an option for code in finally to not execute?
+%
+What is an exception handler?
+%
+What is a default exception handler?
+%
+Can you change the default exception handler?
+%
+What happens when exception is thrown in JShell?
+%
+Can iterating over an array throw an exception?
+%
+

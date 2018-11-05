@@ -1,0 +1,128 @@
+What is transient for?
+%
+What is strictfp for?
+%
+What is default for?
+%
+What is public for?
+%
+What is abstract for?
+%
+What is final for?
+%
+What is static for?
+%
+What is private for?
+%
+What are encapsulation modifiers?
+%
+Name visibility modifiers?
+%
+Name primitive types?
+%
+What is protected for?
+%
+What is package for?
+%
+What is import for?
+%
+What is short for?
+%
+What is byte for?
+%
+Is there a true keyword?
+%
+Is there a false keyword?
+%
+Is there a null keyword?
+%
+Is there a strictfp keyword?
+%
+Is there a finalize keyword?
+%
+Is there a finally keyword?
+%
+Is there a final keyword?
+%
+Name keywords for error handling?
+%
+Name most OO keyword, provide reasoning?
+%
+What is double for?
+%
+What is float for?
+%
+Why is double called double?
+%
+What is volatile for?
+%
+What is synchronized for?
+%
+Name JMCM keywords?
+%
+What is break for?
+%
+What is continue for?
+%
+What is goto for?
+%
+What is const for?
+%
+What is assert for?
+%
+When to use assert?
+%
+When to use transient?
+%
+When to use strictfp?
+%
+When to use synchronized?
+%
+When to use final?
+%
+When to use throws?
+%
+When to use throw?
+%
+When to use finally?
+%
+When to use volatile?
+%
+What is var for?
+%
+Is there a module keyword?
+%
+Is there a val keyword?
+%
+Is there a var keyword?
+%
+Name keywords that are reserved, but not used (if any)?
+%
+Are there any keywords related to generics?
+%
+Are there any keywords related to referential types?
+%
+Are there any keywords related to arrays?
+%
+Are there any keywords helping with composition?
+%
+Name the newest keyword as of Java 11, 10, 9 and 8?
+%
+Name keywords that can cause a jump?
+%
+Name keywords that transfer control?
+%
+Name keywords regulating program flow ?
+%
+How many OO keywords Java has?
+%
+What are keywords in Java?
+%
+Name as many keywords in Java as you can?
+%
+Can Java add keywords as it wants to (explain the answer)?
+%
+Are keywords regulated somehow (can they be turned off or on, for instance)?
+%
+Is object a keyword in Java?
+%

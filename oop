@@ -1,0 +1,200 @@
+4 pillars of OOP?
+%
+Definition of OO?
+%
+Who coined term "object-oriented"?
+%
+According to author of term "object-oriented" what does it mean?
+%
+Name OO languages?
+%
+What qualities must a language posess to be an OO language?
+%
+Expand the acronym OO?
+%
+What is encapsulation?
+%
+What is polymorphism?
+%
+What is composition?
+%
+What is inheritance?
+%
+What is abstraction?
+%
+What are classes?
+%
+Expand the acronym OOA?
+%
+Expand the acronym OOD?
+%
+Expand the acronym OOP?
+%
+Is Java OO?
+%
+Why Java is NOT OO?
+%
+Java keywords against OO?
+%
+Java keywords supporting OO?
+%
+How is inheritance done in Java?
+%
+Expand acronym: FBC?
+%
+Diamond problem?
+%
+What is the difference between an interface and an abstract class?
+%
+What is the difference between an interface and an abstract class after JDK 8?
+%
+Can an interface have static methods?
+%
+Can we have multiple inheritance in Java?
+%
+Name three forms of multiple inheritance in Java?
+%
+Can I have abstract method in an interface in Java?
+%
+Can I have a static method in an interface in Java?
+%
+Can I have a package-private method in an interface in Java?
+%
+Can I have a private method in an interface in Java?
+%
+Can I have a public method in an interface in Java?
+%
+Can I have a final method in an interface in Java?
+%
+Can I inherit a static method?
+%
+Can I inherit a private method?
+%
+Can I inherit a static field?
+%
+Can I inherit a private field?
+%
+Name inheritance weakness(es)?
+%
+What is composition?
+%
+Did James Gosling ever said he would've left out something if he could redo Java?
+%
+According to James Gosling, core of OOD is...?
+%
+Does Java support multiple inheritance?
+%
+Can you have an abstract class in Java?
+%
+Can you have an abstract interface in Java?
+%
+Code - in Java - a class that doesn't inherit?
+%
+What kinds of polymorphism do you know?
+%
+What kinds of polymorphism does Java have?
+%
+Parametric polymorphism is?
+%
+Ad-hoc polymorphism is?
+%
+Name four different examples of polymorphism in Java?
+%
+Is polymorphism inheritance?
+%
+Everything in Java is an object - true or false?
+%
+What is inclusion polymorphism?
+%
+What is subtype polymorphism?
+%
+What is late-binding?
+%
+What is hermetization?
+%
+How we hide state?
+%
+What do objects have?
+%
+Object and a class?
+%
+Can we overload a method in Java?
+%
+Can we overload a function in Java?
+%
+Can we overload a field in Java?
+%
+Can we overload a class in Java?
+%
+Can we overload an operator in Java?
+%
+Can we overload a keyword in Java?
+%
+Do we have overloaded methods in Java?
+%
+Do we have overloaded functions in Java?
+%
+Do we have overloaded fields in Java?
+%
+Do we have overloaded classes in Java?
+%
+Do we have overloaded operators in Java?
+%
+Do we have overloaded keywords in Java?
+%
+Overloading vs overriding?
+%
+What is an object?
+%
+Object vs class?
+%
+In Java "object" has multiple meanings, like...?
+%
+Roughly how many methods does Object class posess?
+%
+Object class has 3 methods, true or false?
+%
+Object class has 5 methods, true or false?
+%
+Object class has 7 methods, true or false?
+%
+Object class has 9 methods, true or false?
+%
+Object class has 11 methods, true or false?
+%
+Name methods of Object class?
+%
+Message-passing in OO, what that would be?
+%
+What is composition?
+%
+What is delegation?
+%
+Example of composition?
+%
+Example of delegation?
+%
+Why would composition be better than inheritance?
+%
+Are getters and setters evil?
+%
+What is a mutable class?
+%
+What is an immutable class?
+%
+Can I make a class un-inheritable?
+%
+Can I make a class un-encapsulable?
+%
+Can I make a class un-polymorphic?
+%
+How can I make a class un-inheritable?
+%
+How can I make a class un-encapsulable?
+%
+How can I make a class un-polymorphic?
+%
+Code a class Person with name, surname and age, make it OO?
+%
+What are getters and setters and how they relate to OOP?
+%

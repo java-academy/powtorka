@@ -1,0 +1,4 @@
+# Vim swap files
+*.sw?
+# Fortune DAT files - binaries can be generated, no need to put them in repo
+*.dat
