@@ -16,7 +16,7 @@ From the terminal:
 . `cd powtorka` - change the dir name if you cloned or moved this elsewhere or renamed the dir name
 . `strfile -c % fileNameHere` - creates a binary file DB for `fortune`
 . `fortune fileNameHere` - uses the file, giving the random fortune (that is, a random question)
-. `mv *.dat /usr/games/fortune` - assuming your fortune dir is `/usr/games/fortune`
+. `mv fileNameHere fileNameHere.dat /usr/games/fortune` - assuming your fortune dir is `/usr/games/fortune`
 . you can now delete the repo and use the fortune-quiz :-)
 
 `man fortune` to the rescue if you want to know more!
