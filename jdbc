@@ -1,0 +1,42 @@
+What is JDBC?
+%
+What is ODBC?
+%
+Explain acronym JDBC?
+%
+Explain acronym ODBC?
+%
+What are drivers?
+%
+What types of drivers do we have and why it matters?
+%
+Can I talk to a remote network through JDBC?
+%
+Can I talk to a remote ERP through JDBC?
+%
+Can I talk to an ODBC DB through JDBC?
+%
+If I have a MySQL DB and Oracle DB, what config will I need to talk to both?
+%
+Do I need to get JDBC aside from JVM, or is it built into JVM?
+%
+What java packages do I need to use JDBC (and modules in JDK9+)?
+%
+What is the latest JDBC version?
+%
+What functionalities JDBC has?
+%
+`Statement` vs `PreparedStatement` vs `CallableStatement`?
+%
+How to connect to a DB using JDBC?
+%
+Best practices when connecting to DB?
+%
+What is `data source`?
+%
+Name five classes from JDBC along with what they are needed for?
+%
+How to do a query using JDBC?
+%
+Can we have a transaction using JDBC?
+%
