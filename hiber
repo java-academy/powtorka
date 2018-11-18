@@ -1,0 +1,80 @@
+What is an ORM?
+%
+Name ORMs you know?
+%
+Explain acronym JPA?
+%
+JPA vs Hibernate?
+%
+What is Hibernate?
+%
+Problems with ORMs?
+%
+Name two most popular problems with Hibernate and how to solve them?
+%
+How inheritance can be mapped in Hibernate?
+%
+How to map a Person class to PEOPLE table?
+%
+When mapping and object to a table, what needs to be done?
+%
+Name 10 Hibernate annotations?
+%
+How does Hibernate do the mapping?
+%
+When you put the @Entity or @Table annotation on a class, what happens (details please)?
+%
+How to recognize if a given annotation is JPA or Hibernate one?
+%
+Should we (not) mix JPA and Hibernate and why?
+%
+If I have an enum and I want it to be used for some field in my object, can Hibernate deal with that?
+%
+You are to map an object to a table, tell me everything there is to look for?
+%
+How are date types handled by Hibernate?
+%
+What Hibernate is doing with JCF objects when it's mapping them?
+%
+Tell me about EntityManager?
+%
+Tell me about SessionFactory?
+%
+What is a session in Hibernate?
+%
+What can you tell me about caching in Hibernate?
+%
+What is lazy loading?
+%
+What is eager loading?
+%
+Describe entity lifecycle in Hibernate?
+%
+What are the dangers of lazy loading?
+%
+What are the dangers of eager loading?
+%
+How to walk the entity through it's entire Hibernate lifecycle (state - operation - new state)?
+%
+How to debug Hibernate?
+%
+How to see Hibernate queries?
+%
+How to log Hibernate when you mean to see as many things as possible?
+%
+What performance tips you have for Hibernate?
+%
+What is 1st level cache?
+%
+What is 2nd level cache?
+%
+What can you cache in Hibernate?
+%
+Bag vs List?
+%
+What can be found in hibernate.cfg?
+%
+Can I NOT persist a field from a mapped object and how?
+%
+How in objects reflect many-many or one-many?
+%

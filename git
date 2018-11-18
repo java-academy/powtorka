@@ -1,0 +1,200 @@
+What is git?
+%
+Why git was created?
+%
+How to pull up a help for XYZ command?
+%
+What is an index?
+%
+Compare git and svn?
+%
+Compare git and mercurial?
+%
+Git is called *distributed*, why that is?
+%
+Name 15 git commands?
+%
+What does `git add` do?
+%
+What does `git config` do?
+%
+What does `git clone` do?
+%
+What does `git init` do?
+%
+What does `git commit` do?
+%
+What does `git push` do?
+%
+What does `git pull` do?
+%
+What does `git fetch` do?
+%
+What does `git merge` do?
+%
+What does `git rebase` do?
+%
+What does `git rm` do?
+%
+What does `git diff` do?
+%
+What does `git status` do?
+%
+What does `git log` do?
+%
+What does `git show` do?
+%
+What does `git remote` do?
+%
+What does `git rerere` do?
+%
+What does `git describe` do?
+%
+What does `git reset` do?
+%
+What does `git revert` do?
+%
+What does `git patch` do?
+%
+What does `git am` do?
+%
+What does `git bundle` do?
+%
+What does `git shortlog` do?
+%
+What does `git mv` do?
+%
+What does `git branch` do?
+%
+What does `git checkout` do?
+%
+What does `git st` do?
+%
+What does `git lsd` do?
+%
+What does `git co` do?
+%
+What does `git tag` do?
+%
+What does `git instaweb` do?
+%
+What does `git fast-export` do?
+%
+What does `git fast-import do?
+%
+What does `git bisect` do?
+%
+What does `git grep` do?
+%
+What does `git magic` do?
+%
+What does `git filter-branch` do?
+%
+What does `git restart` do?
+%
+What does `git func` do?
+%
+What does `git gc` do?
+%
+What is a stash?
+%
+What is a shelve?
+%
+What is a remote repository?
+%
+What is a local repository?
+%
+What is a branch?
+%
+What is a commit?
+%
+What is a SHA?
+%
+Is SHA in Git safe?
+%
+Isn't SHA created with an unsafe algorithm? Why Git uses it?
+%
+What is an object in Git?
+%
+What is stored in an index?
+%
+What is staging area?
+%
+Merge vs rebase?
+%
+How you can affect history?
+%
+Name commands affecting history?
+%
+What can `git status` tell?
+%
+How to solve conflicts in git?
+%
+Long lived branches - good, bad, why?
+%
+Which branching models do you know/recommend?
+%
+What protocols git uses?
+%
+Does git uses compression and when?
+%
+What are git aliases?
+%
+What are git hooks?
+%
+How to use git aliases?
+%
+How to use git hooks?
+%
+What are submodules?
+%
+What are subtrees?
+%
+Submodules vs subtrees?
+%
+What is reflog?
+%
+Can you disable reflog?
+%
+Can you push out stash?
+%
+Can you push out tags?
+%
+Can you push out notes?
+%
+Can you add a comment to a commit without changing it's SHA?
+%
+Describe push strategies?
+%
+Name and describe five switches to `git commit` command?
+%
+Name and describe three switches to `git commit` command?
+%
+What are interactive commands in git?
+%
+How can you ignore a file?
+%
+What are file statuses from git's point of view?
+%
+Can you ignore a file and NOT share it with the team?
+%
+Patterns for .gitignore file?
+%
+Name command switches you frequently use? What do they do?
+%
+When you clone a repo and you already have such dir, what happens?
+%
+When you clone a repo but want the name of the dir to be different, what to do?
+%
+What makes a good commit message?
+%
+Does git allow empty commit messages?
+%
+Can you squash multiple commits into one?
+%
+Why and when we use tags?
+%
+Why and when we use branches?
+%
+What is your favourite Git feature and why?
+%

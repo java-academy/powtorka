@@ -1,0 +1,62 @@
+Why the name?
+%
+How this framework came to be?
+%
+Authors?
+%
+What core concepts are behind Spring?
+%
+Name ways to configure Spring?
+%
+If I can do this via annotations, can I do this via XML?
+%
+If I can do this via XML, can I do this via annotations?
+%
+What is dependency injection?
+%
+Examples of dependency injections?
+%
+Can you do dependency injection without Spring?
+%
+How does Spring DI work?
+%
+Expand DI?
+%
+Expand IoC?
+%
+What is a container in Spring?
+%
+Name design patterns that Spring uses?
+%
+How does `@Autowire` works?
+%
+How does `@Transactional` works?
+%
+How does `@Controller` works?
+%
+What is a `component`?
+%
+How to tell Spring where it's beans are located?
+%
+What is a Spring Bean?
+%
+What is a POJO?
+%
+What is better: a Java class with 20 parameters passed to a constructor or a Spring Bean with 20 autowired fields?
+%
+What is the difference between Spring XML autowiring and `@Autowire`?
+%
+What is a superset: XML config or annotations one?
+%
+Name 10 Spring annotations?
+%
+What is a bean factory?
+%
+What is a bean post-processor?
+%
+What is a bean pre-processor?
+%
+How many annotation processors Spring uses?
+%
+Name popular Spring modules?
+%
