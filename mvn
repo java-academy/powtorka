@@ -1,0 +1,42 @@
+What is Maven?
+%
+Why such name (what it means)?
+%
+Name Maven lifecycles?
+%
+Name 5 phases of the build lifecycle?
+%
+Name at least one phase of clean lifecycle?
+%
+Name at least one phase of site lifecycle?
+%
+Name at least two phases of clean lifecycle?
+%
+Name at least two phases of site lifecycle?
+%
+Name all phases of clean lifecycle?
+%
+Name all phases of site lifecycle?
+%
+Name all phases of build lifecycle?
+%
+What exactly happens when you run `mvn clean install`?
+%
+What exactly happens when you run `mvn clean`?
+%
+Difference between `mvn install` and `mvn package`?
+%
+Difference between `mvn deploy` and `mvn package`?
+%
+What are Maven coordinates?
+%
+What scopes do we have in Maven?
+%
+You've created a new Maven project and you want to make sure it will build without errors/warnings. What to look out for?
+%
+How can you create a new Maven project?
+%
+Name 3 common warnings that can appear in Maven projects (with solutions)?
+%
+Build is platform dependent... when such message may appear and why and what it means?
+%

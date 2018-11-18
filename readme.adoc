@@ -1,12 +1,17 @@
 = About
 
-Refresher quiz from Java, by use of `fortune` game.
+Refresher quiz from Java (and tools), by use of `fortune` game.
 
 == Questions
 
 1. OOP - theory of OO, including definition, author, criteria, pillars, etc.
 2. exceptions - error and exception handling in Java
 3. keywords - questions about all Java keywords (till JDK11)
+
+Extra:
+
+- git - distributed version control system Git
+- mvn - Maven, Java build tool
 
 == Usage
 
@@ -16,7 +21,7 @@ From the terminal:
 . `cd powtorka` - change the dir name if you cloned or moved this elsewhere or renamed the dir name
 . `strfile -c % fileNameHere` - creates a binary file DB for `fortune`
 . `fortune fileNameHere` - uses the file, giving the random fortune (that is, a random question)
-. `mv *.dat /usr/games/fortune` - assuming your fortune dir is `/usr/games/fortune`
+. `mv fileName fileName.dat /usr/games/fortune` - assuming your fortune dir is `/usr/games/fortune`
 . you can now delete the repo and use the fortune-quiz :-)
 
 `man fortune` to the rescue if you want to know more!
