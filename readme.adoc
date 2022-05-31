@@ -27,6 +27,8 @@ From the terminal:
 
 `man fortune` to the rescue if you want to know more!
 
+TIP: Or you can clone the repository and launch `install.sh` to install the files. :-)
+
 == Sources
 
 My own questions. Not that anybody else didn't have similar.
